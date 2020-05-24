@@ -1,0 +1,12 @@
+name,en
+SUCCESSFULLY,
+SUCCESSFULLY_FORMATABLE,{0},
+OPERATION_FAIL,Has error,
+ACCOUNT_EXISTED,Account existed,
+ACCOUNT_NOT_EXISTED,Account not existed,
+SESSION_NOT_EXISTED,Session not existed,
+INVALID_ACCESSTOKEN,Invalid accesstoken,
+CANNOT_FIND_OPPONENT,Cannot find opponent,
+INVALID_NAME,Invalid name. Name lenght min 4 characters, max 20 characters"),
+NOT_FIND_ROOM,Not find room. Please try again,
+ACCOUNT_NOT_LOGIN,Account not login. Please try again,
